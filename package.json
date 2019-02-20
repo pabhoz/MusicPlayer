@@ -1,0 +1,20 @@
+{
+  "name": "co.edu.usbcali.audiplayer",
+  "version": "1.0.0",
+  "description": "Toma tu paquete!",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "holi": "echo holi!",
+    "sass-watch": "watch -p \"**/*.scss\" -c \"sass */*.scss */*.css\""
+  },
+  "keywords": [
+    "cool",
+    "megacool"
+  ],
+  "author": "pabhoz",
+  "license": "MIT",
+  "dependencies": {
+    "sass": "^1.17.0"
+  }
+}
