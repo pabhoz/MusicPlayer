@@ -258,3 +258,12 @@ html,body {
 	width: 90px;
 	height: 90px;
 }
+
+#username{
+	position: absolute;
+	top: 10%;
+	left: 3%;
+	font-size: 150%;
+	font-weight: bolder;
+	z-index: 99;
+}

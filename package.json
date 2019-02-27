@@ -6,7 +6,7 @@
   "scripts": {
     "test": "test",
     "holi": "echo holi!",
-    "sass-watch": "watch -p \"**/*.scss\" -c \"sass */*.scss */*.css\""
+    "sass-watch": "sass --watch css:css"
   },
   "keywords": [
     "cool",
